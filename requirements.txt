@@ -6,4 +6,6 @@ scikit-learn
 catboost
 xgboost
 dataclasses
+dill #used for pickle file
+pickle
 -e .
