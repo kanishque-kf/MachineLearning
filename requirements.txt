@@ -8,4 +8,5 @@ xgboost
 dataclasses
 dill #used for pickle file
 pickle
+flask
 -e .
