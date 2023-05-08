@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Build started"
+  post_build:
+    commands:
+      - echo "Deployment started"
+      - aws elasticbeanstalk update-environment --environment-name modern-marvel-dev --version-label v1
