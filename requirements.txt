@@ -1,6 +1,5 @@
 pandas
 numpy
-seaborn
 matplotlib
 scikit-learn
 catboost
@@ -9,4 +8,5 @@ dataclasses
 dill #used for pickle file
 pickle4
 flask
+
 -e .
