@@ -7,6 +7,6 @@ catboost
 xgboost
 dataclasses
 dill #used for pickle file
-pickle
+pickle4
 flask
 -e .
